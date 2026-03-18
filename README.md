@@ -23,6 +23,9 @@ JSearch API → PostgreSQL → Pandas ETL → Apache Airflow → Streamlit Dashb
 - **95% jobs are Onsite** — remote work still rare in India
 - **Excel** is Bengaluru's #1 demanded skill — not Python!
 
+  ## 🚀 Live Dashboard
+[View Live Dashboard](https://india-job-market-analyzer-gwjzvobaya7gzybjk4nxwj.streamlit.app)
+
 ## 📁 Project Structure
 ```
 ├── scraper.py              # Extract layer — JSearch API
