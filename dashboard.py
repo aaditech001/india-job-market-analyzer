@@ -1,3 +1,5 @@
+import os
+
 import streamlit as st
 import pandas as pd
 from sqlalchemy import create_engine
@@ -13,8 +15,10 @@ st.set_page_config(
 # Load data from CSV
 @st.cache_data
 def load_data():
-    df_jobs = pd.read_csv('data/transformed_jobs.csv')
-    df_skills = pd.read_csv('data/job_skills.csv')
+    import os
+    base_path = os.path.dirname(os.path.abspath(__file__))
+    df_jobs = pd.read_csv(os.path.join(base_path, 'data/transformed_jobs.csv'))
+    df_skills = pd.read_csv(os.path.join(base_path, 'data/job_skills.csv'))
     return df_jobs, df_skills
 
 df_jobs, df_skills = load_data()
