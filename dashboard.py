@@ -10,15 +10,11 @@ st.set_page_config(
     layout="wide"
 )
 
-# DB Connection
+# Load data from CSV
 @st.cache_data
 def load_data():
-    password = quote_plus('aadi@9055')
-    engine = create_engine(
-        f"postgresql+psycopg2://postgres:{password}@localhost/job_market"
-    )
-    df_jobs = pd.read_sql("SELECT * FROM transformed_jobs", engine)
-    df_skills = pd.read_sql("SELECT * FROM job_skills", engine)
+    df_jobs = pd.read_csv('data/transformed_jobs.csv')
+    df_skills = pd.read_csv('data/job_skills.csv')
     return df_jobs, df_skills
 
 df_jobs, df_skills = load_data()
