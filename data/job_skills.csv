@@ -1,0 +1,331 @@
+job_id,job_title,company_name,skill,role_searched
+1,Senior Data Analyst (Qa & Automation Focus),SID Information Technologies,python,Data Scientist
+1,Senior Data Analyst (Qa & Automation Focus),SID Information Technologies,sql,Data Scientist
+1,Senior Data Analyst (Qa & Automation Focus),SID Information Technologies,aws,Data Scientist
+1,Senior Data Analyst (Qa & Automation Focus),SID Information Technologies,tableau,Data Scientist
+1,Senior Data Analyst (Qa & Automation Focus),SID Information Technologies,etl,Data Scientist
+2,Data Analyst 3,Comcast,python,Data Scientist
+2,Data Analyst 3,Comcast,sql,Data Scientist
+2,Data Analyst 3,Comcast,spark,Data Scientist
+2,Data Analyst 3,Comcast,aws,Data Scientist
+2,Data Analyst 3,Comcast,azure,Data Scientist
+2,Data Analyst 3,Comcast,gcp,Data Scientist
+2,Data Analyst 3,Comcast,databricks,Data Scientist
+2,Data Analyst 3,Comcast,tableau,Data Scientist
+2,Data Analyst 3,Comcast,power bi,Data Scientist
+3,"Senior Financial Data Analyst | Bangalore, In",Moody's,python,Data Scientist
+3,"Senior Financial Data Analyst | Bangalore, In",Moody's,power bi,Data Scientist
+3,"Senior Financial Data Analyst | Bangalore, In",Moody's,excel,Data Scientist
+4,"Senior Analyst, Analytics & Metrics",Mastercard,python,Data Scientist
+4,"Senior Analyst, Analytics & Metrics",Mastercard,sql,Data Scientist
+4,"Senior Analyst, Analytics & Metrics",Mastercard,tableau,Data Scientist
+4,"Senior Analyst, Analytics & Metrics",Mastercard,power bi,Data Scientist
+4,"Senior Analyst, Analytics & Metrics",Mastercard,excel,Data Scientist
+6,Financial Data Analyst,ERGO | Munich Re | MEAG,python,Data Scientist
+6,Financial Data Analyst,ERGO | Munich Re | MEAG,kafka,Data Scientist
+6,Financial Data Analyst,ERGO | Munich Re | MEAG,aws,Data Scientist
+6,Financial Data Analyst,ERGO | Munich Re | MEAG,azure,Data Scientist
+6,Financial Data Analyst,ERGO | Munich Re | MEAG,tableau,Data Scientist
+6,Financial Data Analyst,ERGO | Munich Re | MEAG,power bi,Data Scientist
+6,Financial Data Analyst,ERGO | Munich Re | MEAG,machine learning,Data Scientist
+7,Data Analyst Ii,"RealPage, Inc.",excel,Data Scientist
+8,Data Analyst - Home Working Remote,Recruit Forge,python,Data Scientist
+8,Data Analyst - Home Working Remote,Recruit Forge,sql,Data Scientist
+8,Data Analyst - Home Working Remote,Recruit Forge,tableau,Data Scientist
+8,Data Analyst - Home Working Remote,Recruit Forge,power bi,Data Scientist
+8,Data Analyst - Home Working Remote,Recruit Forge,excel,Data Scientist
+9,Analyst - Data Science,United Airlines,python,Data Scientist
+9,Analyst - Data Science,United Airlines,sql,Data Scientist
+9,Analyst - Data Science,United Airlines,spark,Data Scientist
+9,Analyst - Data Science,United Airlines,aws,Data Scientist
+9,Analyst - Data Science,United Airlines,redshift,Data Scientist
+9,Analyst - Data Science,United Airlines,databricks,Data Scientist
+9,Analyst - Data Science,United Airlines,tableau,Data Scientist
+9,Analyst - Data Science,United Airlines,power bi,Data Scientist
+9,Analyst - Data Science,United Airlines,machine learning,Data Scientist
+9,Analyst - Data Science,United Airlines,excel,Data Scientist
+10,Sql Data Analyst,IQVIA India Private Limited,sql,Data Scientist
+10,Sql Data Analyst,IQVIA India Private Limited,etl,Data Scientist
+320,Agentic Ai / Data Science Expert,Confidential,python,Data Scientist
+320,Agentic Ai / Data Science Expert,Confidential,azure,Data Scientist
+320,Agentic Ai / Data Science Expert,Confidential,machine learning,Data Scientist
+322,Data Scientist - Llm - Bluemachineai,HuntingCube,python,Data Scientist
+322,Data Scientist - Llm - Bluemachineai,HuntingCube,airflow,Data Scientist
+322,Data Scientist - Llm - Bluemachineai,HuntingCube,spark,Data Scientist
+322,Data Scientist - Llm - Bluemachineai,HuntingCube,docker,Data Scientist
+322,Data Scientist - Llm - Bluemachineai,HuntingCube,kubernetes,Data Scientist
+322,Data Scientist - Llm - Bluemachineai,HuntingCube,pytorch,Data Scientist
+323,Data Science Lead,Alight,python,Data Scientist
+323,Data Science Lead,Alight,sql,Data Scientist
+323,Data Science Lead,Alight,spark,Data Scientist
+323,Data Science Lead,Alight,aws,Data Scientist
+323,Data Science Lead,Alight,azure,Data Scientist
+323,Data Science Lead,Alight,gcp,Data Scientist
+323,Data Science Lead,Alight,tableau,Data Scientist
+323,Data Science Lead,Alight,power bi,Data Scientist
+323,Data Science Lead,Alight,machine learning,Data Scientist
+323,Data Science Lead,Alight,tensorflow,Data Scientist
+323,Data Science Lead,Alight,pytorch,Data Scientist
+323,Data Science Lead,Alight,scikit-learn,Data Scientist
+324,Data Science Optimization,Tata Insights and Quants,python,Data Scientist
+371,Lead Data Analyst,IDFC FIRST Bank,python,Data Analyst
+371,Lead Data Analyst,IDFC FIRST Bank,sql,Data Analyst
+371,Lead Data Analyst,IDFC FIRST Bank,spark,Data Analyst
+371,Lead Data Analyst,IDFC FIRST Bank,aws,Data Analyst
+371,Lead Data Analyst,IDFC FIRST Bank,tableau,Data Analyst
+372,Data Analyst - Sql/Etl - 7+Years - Chennai/Pune,Crescendo Global,sql,Data Analyst
+372,Data Analyst - Sql/Etl - 7+Years - Chennai/Pune,Crescendo Global,etl,Data Analyst
+373,Analyst I - Data (In),Cencora,sql,Data Analyst
+373,Analyst I - Data (In),Cencora,tableau,Data Analyst
+373,Analyst I - Data (In),Cencora,power bi,Data Analyst
+377,"Data Analyst,",S&P Global,excel,Data Analyst
+301,Associate Data Scientist,Ginesys,python,Data Scientist
+301,Associate Data Scientist,Ginesys,airflow,Data Scientist
+301,Associate Data Scientist,Ginesys,kafka,Data Scientist
+301,Associate Data Scientist,Ginesys,docker,Data Scientist
+301,Associate Data Scientist,Ginesys,aws,Data Scientist
+301,Associate Data Scientist,Ginesys,azure,Data Scientist
+301,Associate Data Scientist,Ginesys,gcp,Data Scientist
+301,Associate Data Scientist,Ginesys,machine learning,Data Scientist
+301,Associate Data Scientist,Ginesys,git,Data Scientist
+301,Associate Data Scientist,Ginesys,etl,Data Scientist
+301,Associate Data Scientist,Ginesys,data pipeline,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,python,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,sql,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,tableau,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,power bi,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,machine learning,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,tensorflow,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,pytorch,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,scikit-learn,Data Scientist
+302,Data Analytics Lead - Data Scientist - Vice President,Professional,etl,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,python,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,sql,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,kubernetes,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,mongodb,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,aws,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,azure,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,gcp,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,machine learning,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,tensorflow,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,pytorch,Data Scientist
+303,Data Scientist-Artificial Intelligence,IBM India Private Limited,linux,Data Scientist
+304,Data Scientist-Senior I,Federal Express Corporation AMEA,python,Data Scientist
+304,Data Scientist-Senior I,Federal Express Corporation AMEA,aws,Data Scientist
+304,Data Scientist-Senior I,Federal Express Corporation AMEA,azure,Data Scientist
+304,Data Scientist-Senior I,Federal Express Corporation AMEA,databricks,Data Scientist
+304,Data Scientist-Senior I,Federal Express Corporation AMEA,machine learning,Data Scientist
+304,Data Scientist-Senior I,Federal Express Corporation AMEA,tensorflow,Data Scientist
+304,Data Scientist-Senior I,Federal Express Corporation AMEA,pytorch,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,python,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,sql,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,postgresql,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,azure,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,databricks,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,machine learning,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,etl,Data Scientist
+305,Data Scientist / Data Engineer,Insight Global,excel,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,python,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,docker,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,kubernetes,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,azure,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,pandas,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,numpy,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,machine learning,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,scikit-learn,Data Scientist
+306,Senior Data Scientist – Nlp & Generative Ai,ThreatXIntel,git,Data Scientist
+307,"Vice President, Data Science",S&P Global,machine learning,Data Scientist
+308,Data Scientist,ADM,python,Data Scientist
+308,Data Scientist,ADM,sql,Data Scientist
+308,Data Scientist,ADM,spark,Data Scientist
+308,Data Scientist,ADM,aws,Data Scientist
+308,Data Scientist,ADM,azure,Data Scientist
+308,Data Scientist,ADM,machine learning,Data Scientist
+308,Data Scientist,ADM,tensorflow,Data Scientist
+308,Data Scientist,ADM,pytorch,Data Scientist
+308,Data Scientist,ADM,data pipeline,Data Scientist
+309,Data Scientist || Pune || Wfo,Michael Page,python,Data Scientist
+309,Data Scientist || Pune || Wfo,Michael Page,machine learning,Data Scientist
+309,Data Scientist || Pune || Wfo,Michael Page,deep learning,Data Scientist
+309,Data Scientist || Pune || Wfo,Michael Page,tensorflow,Data Scientist
+309,Data Scientist || Pune || Wfo,Michael Page,pytorch,Data Scientist
+310,Senior Data Scientist; Remote,TMC Middle East,python,Data Scientist
+310,Senior Data Scientist; Remote,TMC Middle East,sql,Data Scientist
+310,Senior Data Scientist; Remote,TMC Middle East,spark,Data Scientist
+310,Senior Data Scientist; Remote,TMC Middle East,kafka,Data Scientist
+310,Senior Data Scientist; Remote,TMC Middle East,aws,Data Scientist
+310,Senior Data Scientist; Remote,TMC Middle East,azure,Data Scientist
+310,Senior Data Scientist; Remote,TMC Middle East,databricks,Data Scientist
+311,Senior Consultant - Data Scientist,firstsourc,python,Data Scientist
+311,Senior Consultant - Data Scientist,firstsourc,docker,Data Scientist
+311,Senior Consultant - Data Scientist,firstsourc,kubernetes,Data Scientist
+311,Senior Consultant - Data Scientist,firstsourc,machine learning,Data Scientist
+311,Senior Consultant - Data Scientist,firstsourc,deep learning,Data Scientist
+311,Senior Consultant - Data Scientist,firstsourc,tensorflow,Data Scientist
+311,Senior Consultant - Data Scientist,firstsourc,pytorch,Data Scientist
+312,Agentic Ai / Data Science Expert,Confidential,python,Data Scientist
+312,Agentic Ai / Data Science Expert,Confidential,azure,Data Scientist
+312,Agentic Ai / Data Science Expert,Confidential,machine learning,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,python,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,airflow,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,docker,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,kubernetes,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,aws,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,azure,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,databricks,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,machine learning,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,tensorflow,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,pytorch,Data Scientist
+313,Data Scientist  (Us Value & Access Insights),Amgen,scikit-learn,Data Scientist
+314,Data Scientist,Gartner Careers,python,Data Scientist
+314,Data Scientist,Gartner Careers,machine learning,Data Scientist
+315,Data Scientist Ii,SteerLean Consulting,python,Data Scientist
+315,Data Scientist Ii,SteerLean Consulting,airflow,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",python,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",sql,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",docker,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",kubernetes,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",aws,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",azure,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",machine learning,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",tensorflow,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",pytorch,Data Scientist
+316,Ai & Data Science Intern,"Prudent Technologies and Consulting, Inc.",scikit-learn,Data Scientist
+318,Sr Data Scientist Sas Junagadh (India),Hyper Lychee Labs,sql,Data Scientist
+318,Sr Data Scientist Sas Junagadh (India),Hyper Lychee Labs,machine learning,Data Scientist
+319,Staff Ai & Ml Engineer- $100K-$120K,CareerXperts Consulting,python,Data Scientist
+319,Staff Ai & Ml Engineer- $100K-$120K,CareerXperts Consulting,machine learning,Data Scientist
+326,Data Science Trainer,REGex Software Services,python,Data Scientist
+326,Data Science Trainer,REGex Software Services,sql,Data Scientist
+326,Data Science Trainer,REGex Software Services,pandas,Data Scientist
+326,Data Science Trainer,REGex Software Services,power bi,Data Scientist
+326,Data Science Trainer,REGex Software Services,machine learning,Data Scientist
+326,Data Science Trainer,REGex Software Services,deep learning,Data Scientist
+326,Data Science Trainer,REGex Software Services,tensorflow,Data Scientist
+326,Data Science Trainer,REGex Software Services,scikit-learn,Data Scientist
+327,Lead Data Scientist,Bluebash,python,Data Scientist
+327,Lead Data Scientist,Bluebash,tensorflow,Data Scientist
+327,Lead Data Scientist,Bluebash,pytorch,Data Scientist
+327,Lead Data Scientist,Bluebash,scikit-learn,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,python,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,sql,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,aws,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,azure,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,gcp,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,pandas,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,numpy,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,matplotlib,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,seaborn,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,tableau,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,power bi,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,machine learning,Data Scientist
+328,Data Science Analyst (B.Tech)  | 2026 Leadership Development Program (India),ION Group,scikit-learn,Data Scientist
+340,Analyst -Business Operations & Data Analytics,Quest Global,power bi,Data Analyst
+340,Analyst -Business Operations & Data Analytics,Quest Global,excel,Data Analyst
+341,Sr. Data Analyst,thinkbridge,sql,Data Analyst
+341,Sr. Data Analyst,thinkbridge,power bi,Data Analyst
+341,Sr. Data Analyst,thinkbridge,etl,Data Analyst
+343,Mis & Data Analyst- Corporate Office,"CARE Hospitals, Quality CARE India Limited",sql,Data Analyst
+343,Mis & Data Analyst- Corporate Office,"CARE Hospitals, Quality CARE India Limited",power bi,Data Analyst
+343,Mis & Data Analyst- Corporate Office,"CARE Hospitals, Quality CARE India Limited",excel,Data Analyst
+344,Data Analyst-138043,ObjectWin Technology India Pvt. Ltd,sql,Data Analyst
+344,Data Analyst-138043,ObjectWin Technology India Pvt. Ltd,snowflake,Data Analyst
+345,Data Analyst Ii (Data Analyst+ Financial Modeling),WS Atkins (India) Private Limited,sql,Data Analyst
+345,Data Analyst Ii (Data Analyst+ Financial Modeling),WS Atkins (India) Private Limited,azure,Data Analyst
+345,Data Analyst Ii (Data Analyst+ Financial Modeling),WS Atkins (India) Private Limited,power bi,Data Analyst
+346,"Analyst 3, Data Analytics & Business Intelligence",Comcast,sql,Data Analyst
+346,"Analyst 3, Data Analytics & Business Intelligence",Comcast,aws,Data Analyst
+346,"Analyst 3, Data Analytics & Business Intelligence",Comcast,machine learning,Data Analyst
+347,Mis Data Analyst - Revenue Cycle & Debtors Control,Desun Hospitals,excel,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,python,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,sql,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,pandas,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,numpy,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,matplotlib,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,seaborn,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,tableau,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,power bi,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,machine learning,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,deep learning,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,scikit-learn,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,git,Data Analyst
+348,Data Analyst And Data Science Trainer,Milestone institute of Technology,excel,Data Analyst
+350,Analyst [Lc-Ms Data Interpretation Chemist],TÜV SÜD,excel,Data Analyst
+352,Business Analytics Senior Analyst,Early Career,python,Data Analyst
+352,Business Analytics Senior Analyst,Early Career,sql,Data Analyst
+352,Business Analytics Senior Analyst,Early Career,scala,Data Analyst
+352,Business Analytics Senior Analyst,Early Career,tableau,Data Analyst
+352,Business Analytics Senior Analyst,Early Career,machine learning,Data Analyst
+352,Business Analytics Senior Analyst,Early Career,excel,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,python,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,sql,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,java,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,kubernetes,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,snowflake,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,aws,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,azure,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,gcp,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,tableau,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,power bi,Data Analyst
+353,Data & Analytics Senior Cloud Engineer,C3 India Delivery Centre LLP,etl,Data Analyst
+354,Insights Factory-Data Analytics Engineer-Senior Associate,PwC Acceleration Center India,python,Data Analyst
+354,Insights Factory-Data Analytics Engineer-Senior Associate,PwC Acceleration Center India,sql,Data Analyst
+354,Insights Factory-Data Analytics Engineer-Senior Associate,PwC Acceleration Center India,azure,Data Analyst
+354,Insights Factory-Data Analytics Engineer-Senior Associate,PwC Acceleration Center India,databricks,Data Analyst
+354,Insights Factory-Data Analytics Engineer-Senior Associate,PwC Acceleration Center India,tableau,Data Analyst
+354,Insights Factory-Data Analytics Engineer-Senior Associate,PwC Acceleration Center India,power bi,Data Analyst
+354,Insights Factory-Data Analytics Engineer-Senior Associate,PwC Acceleration Center India,machine learning,Data Analyst
+355,Data Analytics,Riverstone Infotech,python,Data Analyst
+355,Data Analytics,Riverstone Infotech,sql,Data Analyst
+355,Data Analytics,Riverstone Infotech,java,Data Analyst
+355,Data Analytics,Riverstone Infotech,scala,Data Analyst
+355,Data Analytics,Riverstone Infotech,tableau,Data Analyst
+355,Data Analytics,Riverstone Infotech,machine learning,Data Analyst
+355,Data Analytics,Riverstone Infotech,deep learning,Data Analyst
+355,Data Analytics,Riverstone Infotech,etl,Data Analyst
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",sql,Data Engineer
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",scala,Data Engineer
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",spark,Data Engineer
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",aws,Data Engineer
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",azure,Data Engineer
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",databricks,Data Engineer
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",power bi,Data Engineer
+356,"Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",etl,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,python,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,sql,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,airflow,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,spark,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,docker,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,kubernetes,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,postgresql,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,azure,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,databricks,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,machine learning,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,git,Data Engineer
+357,[Remote] Data Engineer Lead (Ot Data)( Oil & Gas) (India),Codvo.ai,etl,Data Engineer
+358,Intl India - Lead Data Engineer,Insight Global,sql,Data Engineer
+358,Intl India - Lead Data Engineer,Insight Global,azure,Data Engineer
+358,Intl India - Lead Data Engineer,Insight Global,power bi,Data Engineer
+358,Intl India - Lead Data Engineer,Insight Global,data pipeline,Data Engineer
+360,"Senior Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",sql,Data Engineer
+360,"Senior Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",spark,Data Engineer
+360,"Senior Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",aws,Data Engineer
+360,"Senior Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",databricks,Data Engineer
+360,"Senior Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",power bi,Data Engineer
+360,"Senior Databricks Data Engineer – Pune, India","EDI Specialists, Inc.",etl,Data Engineer
+361,Data Engineer - Adobe Experience Platform Engineer,Capgemini,kafka,Data Engineer
+361,Data Engineer - Adobe Experience Platform Engineer,Capgemini,snowflake,Data Engineer
+361,Data Engineer - Adobe Experience Platform Engineer,Capgemini,azure,Data Engineer
+361,Data Engineer - Adobe Experience Platform Engineer,Capgemini,tableau,Data Engineer
+361,Data Engineer - Adobe Experience Platform Engineer,Capgemini,power bi,Data Engineer
+362,Data Analyst,Airbound,python,Data Analyst
+362,Data Analyst,Airbound,sql,Data Analyst
+362,Data Analyst,Airbound,snowflake,Data Analyst
+362,Data Analyst,Airbound,aws,Data Analyst
+362,Data Analyst,Airbound,azure,Data Analyst
+362,Data Analyst,Airbound,gcp,Data Analyst
+362,Data Analyst,Airbound,redshift,Data Analyst
+362,Data Analyst,Airbound,bigquery,Data Analyst
+362,Data Analyst,Airbound,tableau,Data Analyst
+362,Data Analyst,Airbound,power bi,Data Analyst
+362,Data Analyst,Airbound,excel,Data Analyst
