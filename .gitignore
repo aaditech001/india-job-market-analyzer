@@ -3,6 +3,5 @@ __pycache__/
 *.pyc
 airflow/logs/
 airflow/airflow.db
-*.csv
 *.json
 mock_response.json

@@ -3,6 +3,13 @@ from airflow.operators.python import PythonOperator
 from datetime import datetime, timedelta
 import sys
 import os
+from airflow.models import Variable
+
+os.environ['RAPIDAPI_KEY'] = Variable.get('RAPIDAPI_KEY',default_var='')
+os.environ['DB_PASSWORD'] = Variable.get('DB_PASSWORD',default_var='')
+os.environ['DB_HOST'] = Variable.get('DB_HOST',default_var='')
+os.environ['DB_NAME'] = Variable.get('DB_NAME',default_var='')
+os.environ['DB_USER'] = Variable.get('DB_USER',default_var='')
 
 # Project path add karo
 sys.path.insert(0, '/opt/airflow/dags')
@@ -14,22 +21,19 @@ default_args = {
 }
 
 def scrape_jobs():
-    import requests
-    import psycopg2
-    import json
-    from dotenv import load_dotenv
+    import sys
+    sys.path.insert(0, '/opt/airflow/dags')
+
+    # Override TEST_MODE to False
+    import scraper as scraper_module
+    scraper_module.TEST_MODE = False
     
-    load_dotenv()
+    from scraper import JobScraper
     
-    print("Starting job scraping...")
-    
-    # TEST_MODE — real API call nahi hogi
-    TEST_MODE = True
-    
-    if TEST_MODE:
-        print("TEST_MODE: Skipping real API call")
-        print("Scraping complete — 381 jobs in raw_jobs")
-        return "Scrape success"
+    s = JobScraper()
+    s.collect_all_job()
+    s.save_to_csv('/opt/airflow/dags/all_jobs.csv')
+    s.load_to_postgres()
     
     print("Scraping complete!")
     return "Scrape success"
@@ -44,11 +48,11 @@ def transform_jobs():
     print("Starting transformation...")
     
     
-    DB_USER = 'postgres'
-    DB_PASSWORD = 'aadi@9055'
-    DB_HOST = 'host.docker.internal'
-    DB_NAME = 'job_market'
-    
+    DB_USER = os.getenv('DB_USER')
+    DB_PASSWORD = os.getenv('DB_PASSWORD')
+    DB_HOST = os.getenv('DB_HOST')
+    DB_NAME = os.getenv('DB_NAME')
+
     engine = create_engine(
         f"postgresql+psycopg2://{DB_USER}:{quote_plus(DB_PASSWORD)}@{DB_HOST}/{DB_NAME}"
     )
@@ -74,10 +78,10 @@ def load_jobs():
     
     print("Verifying load...")
     
-    DB_USER = 'postgres'
-    DB_PASSWORD = 'aadi@9055'
-    DB_HOST = 'host.docker.internal'
-    DB_NAME = 'job_market'
+    DB_USER = os.getenv('DB_USER')
+    DB_PASSWORD = os.getenv('DB_PASSWORD')
+    DB_HOST = os.getenv('DB_HOST')
+    DB_NAME = os.getenv('DB_NAME')
 
     engine = create_engine(
         f"postgresql+psycopg2://{DB_USER}:{quote_plus(DB_PASSWORD)}@{DB_HOST}/{DB_NAME}"

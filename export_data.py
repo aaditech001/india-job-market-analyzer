@@ -1,10 +1,17 @@
 import pandas as pd
 from sqlalchemy import create_engine
 from urllib.parse import quote_plus
+from dotenv import load_dotenv
+import os
 
-password = quote_plus('aadi@9055')
+load_dotenv()
+password = quote_plus(os.getenv("DB_PASSWORD"))
+user     = os.getenv("DB_USER")
+host     = os.getenv("DB_HOST")
+db_name  = os.getenv("DB_NAME")
+
 engine = create_engine(
-    f"postgresql+psycopg2://postgres:{password}@localhost/job_market"
+    f"postgresql+psycopg2://{user}:{password}@{host}/{db_name}"
 )
 
 df_jobs = pd.read_sql("SELECT * FROM transformed_jobs", engine)
